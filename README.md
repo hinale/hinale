@@ -1,7 +1,7 @@
 ### Oi, gente! 👋
 Um pouco sobre mim:
 
-- ☺ Me chamo Letícia e tenho 19 anos 
+- ☺ Me chamo Letícia e tenho 20 anos 
 - 📕 Estou cursando a faculdade de Análise e Desenvolvimento de Sistemas
  
 
