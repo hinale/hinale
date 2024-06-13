@@ -1,10 +1,3 @@
-### Oi, gente! 👋
-Um pouco sobre mim:
-
-- ☺ Me chamo Letícia e tenho 20 anos 
-- 📕 Estou cursando a faculdade de Análise e Desenvolvimento de Sistemas
- 
-
 <div align="center">
   <a href="https://github.com/hinale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hinale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
